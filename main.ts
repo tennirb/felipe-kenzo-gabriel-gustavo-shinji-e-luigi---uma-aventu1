@@ -2,7 +2,7 @@ let Fernando = sprites.create(assets.image`myImage`, SpriteKind.Player)
 controller.moveSprite(Fernando, 100, 100)
 tiles.setCurrentTilemap(tilemap`level`)
 scene.cameraFollowSprite(Fernando)
-story.printCharacterText("Fernando inicia sua aventura no acampamento de escoteiros", "Narrador")
+story.printCharacterText("Fernando inicia sua aventura no acampamento de escoteiros.", "Narrador")
 forever(function () {
     characterAnimations.loopFrames(
     Fernando,
