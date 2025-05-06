@@ -5,7 +5,8 @@
         "device": "*",
         "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
-        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1"
     },
     "files": [
         "main.blocks",
@@ -24,7 +25,7 @@
         "branch": "v2.0.48",
         "tag": "v2.0.48",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/cb1bfd53862604a2129aba2eff909d3bec8826ed",
-        "target": "2.0.53",
+        "target": "2.0.56",
         "pxt": "11.3.51",
         "targetId": "arcade"
     },
